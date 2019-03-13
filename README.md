@@ -1,19 +1,19 @@
 vue-debounce   
 
-为什么使用此插件？
-  网站商场中有模糊搜索且数据量较大时使用可以减少接口发送次数，
-  减少不必要的请求响应，
-  减少服务器压力
+为什么使用此插件？</br>
+  网站商场中有模糊搜索且数据量较大时使用可以减少接口发送次数，</br>
+  减少不必要的请求响应，</br>
+  减少服务器压力</br></br>
   
 
-html
-  <input type="text" 
-  @input="getSearchFn" 
-  placeholder="请输入">
+html</br>
+  <input type="text" </br>
+  @input="getSearchFn" </br>
+  placeholder="请输入"></br></br>
   
-script
-  import lodash from 'lodash'
+script</br>
+  import lodash from 'lodash'</br>
   
-  getSearchFn: lodash.debounce(function () {
-    console.log(1);
-  }, 500)
+  getSearchFn: lodash.debounce(function () {</br>
+    console.log(1);</br>
+  }, 500)</br></br>
