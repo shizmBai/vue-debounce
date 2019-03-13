@@ -1,5 +1,5 @@
-#vue-debounce   
-=============
+vue-debounce   
+
 ![](https://github.com/shizmBai/vue-debounce/raw/master/log/3.jpg)
 为什么使用此插件？</br>
   网站商场中有模糊搜索且数据量较大时使用可以减少接口发送次数，</br>
