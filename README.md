@@ -1,4 +1,4 @@
-vue-debounce   
+# vue-debounce   
 
 ![](https://github.com/shizmBai/vue-debounce/raw/master/log/3.jpg)
 为什么使用此插件？</br>
